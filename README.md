@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 -->
+
+
+[![Priyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshiNegi)](https://github.com/PriyanshiNegi/github-readme-stats)
