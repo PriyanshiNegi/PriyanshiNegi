@@ -1,5 +1,5 @@
 ### Hi there I am Priyanshi 👋
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently on a Full-Stack Development Journey
 - 👯 I’m looking to collaborate on anything interesting 
 - 🤔 I’m looking for help with my programming skills
 
