@@ -2,7 +2,7 @@
 - 🌱 On a Full-Stack Development Journey
 - 👯 looking to collaborate on anything interesting 
 
-Feel free to reach out if there is anything that I can help you with 
+Feel free to reach out for Salesforce related queries.
 
 <!--
 **PriyanshiNegi/PriyanshiNegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
