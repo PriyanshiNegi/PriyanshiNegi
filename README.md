@@ -1,8 +1,8 @@
-### Yello! I am Priyanshi👋 a Salesforce Developer, I have a passion for technology and creating solutions that solve real-world problems.
+### Yello! I am Priyanshi👋 a Salesforce Developer.
 - 🌱 On a Full-Stack Development Journey
 - 👯 looking to collaborate on anything interesting 
 
-Feel free to reach out for Salesforce related queries.
+I have a passion for technology and creating solutions that solve real-world problems.Feel free to reach out for Salesforce related queries.
 
 <!--
 **PriyanshiNegi/PriyanshiNegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
